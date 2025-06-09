@@ -4,8 +4,7 @@
 # Features:
 Animated seam carving visualization: 
 
-https://github.com/user-attachments/assets/21784eb0-23ca-4cd6-8604-ee75353b82c0
-
+https://github.com/user-attachments/assets/38ed75cc-b238-4d7a-b86c-11a33d52bf8d
 
 
 Ability to toggle the energy of the image:
