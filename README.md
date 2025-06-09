@@ -1,8 +1,14 @@
+
+https://github.com/user-attachments/assets/a0b4da57-5856-438f-b878-90f4659c41c7
 # Seam Carving
 [Seam carving](https://en.wikipedia.org/wiki/Seam_carving) is an algorithm for content-aware image resizing. This program has the ability to shrink the image dimensions without having to crop or scale the foreground as harshly.
 
 # Features:
-Animated seam carving visualization:
+Animated seam carving visualization: 
+
+https://github.com/user-attachments/assets/21784eb0-23ca-4cd6-8604-ee75353b82c0
+
+
 
 Ability to toggle the energy of the image:
 
